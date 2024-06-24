@@ -13,3 +13,6 @@ In order to increase the revenue, the different leaders at Airbnb want to unders
 6. Adjustments in the existing properties to make it more customer-oriented.
 7. What are the most popular localities and properties in New York currently?
 8. How to get unpopular properties more traction?
+
+# Link Dashboard:
+[https://public.tableau.com/app/profile/quynh.nguyen6066/viz/AirbnbNYC2019_17191374503640/Dashboard1](Tableau)
